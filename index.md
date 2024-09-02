@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Taught by students in an engaging manner
+- Minimal time spent on lectures and more time on homework assignments
+- Icebreakers and slideshows :)
 
 1. Numbered
 2. List
